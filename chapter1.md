@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## For Loop with If Statement
 
 ```yaml
 type: VideoExercise
