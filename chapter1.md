@@ -41,16 +41,3 @@ This is an example exercise.
 ```{python}
 
 ```
-
----
-
-## For Loop with If Statement
-
-```yaml
-type: VideoExercise
-key: 09ff1b678a
-xp: 50
-```
-
-`@projector_key`
-7718ae639bc92371011fc96083a852c3
